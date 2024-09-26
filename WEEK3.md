@@ -9,7 +9,7 @@
 
 | Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
 | ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
-| CSS Preprocessors    |  |  | -                     | -                    | -      |
+| CSS Preprocessors    | [📺][less-ismore-lec]  |  | [🧑‍💻][less-is-more]                    | -                    | -      |
 
 ## Day 3: Single-Page Applications
 
@@ -17,17 +17,23 @@
 
 | Topic                  | Lecture              | Slides                  | Demo                  | Solution             | Review |
 | ---------------------- | -------------------- | ----------------------- | --------------------- | -------------------- | ------ |
-| Front-End Modules      |  | [🖼️][fe-modules-slides] | -                     | -                    | -      |
-| SPA & AJAX (PuppyBowl) |    | [🖼️][spa-ajax-slides]   |   |  | -      |
+| Front-End Modules      | [📺][fe-modules-lec] | [🖼️][fe-modules-slides] | -                     | [🧑‍💻][fe-modules-demo]                  | -      |
+| SPA & AJAX (PuppyBowl) |  [📺][spa-ajax-lec]  | [🖼️][spa-ajax-slides]   |   |  | -      |
 | Morning Review         |     | [🎟][am-rev-3-3-ticket]  | |  | -      |
 
+[//]: # ' Paste in table above >> [🧑‍💻][less-is-more] '
+[less-is-more]: https://github.com/joker-jonesy/more-with-less
+
+[//]: # ' Paste in table above >> [📺][less-ismore-lec] '
+[less-ismore-lec]: https://youtu.be/gL-H-vnJb8w
+
 [//]: # ' Paste in table above >> [📺][fe-modules-lec] '
-[fe-modules-lec]: https://youtu.be/zGuQnl4F9C4
+[fe-modules-lec]: https://youtu.be/zWT7emgYKwg
 [fe-modules-slides]: https://docs.google.com/presentation/d/1DULROUIBXCIsPsiHHYH2SsFgvxjUqOGJf9o6qKN3SMw/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][fe-modules-demo] '
-[fe-modules-demo]: #link-demo-here
+[fe-modules-demo]: https://github.com/joker-jonesy/Webpacking
 [//]: # ' Paste in table above >> [📺][spa-ajax-lec] '
-[spa-ajax-lec]: https://youtu.be/gatX6cl3_lE
+[spa-ajax-lec]: https://youtu.be/QCd2ep-ieKc
 [spa-ajax-slides]: https://docs.google.com/presentation/d/1F3O6Zwl3blYnRw9pOJ2dGvlfngR3XTNa_ITlV1kV2P0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][spa-ajax-demo] '
 [spa-ajax-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-12-spa-ajax/ajax-demo
@@ -86,31 +92,34 @@
 
 | Topic                              | Lecture                   | Slides                       | Demo                     | Solution                  | Review |
 | ---------------------------------- | ------------------------- | ---------------------------- | ------------------------ | ------------------------- | ------ |
-| Intro to React                     |     | [🖼️][intro-react-slides]     | -                        |     |        |
-| State & Props                      |    | [🖼️][state-props-slides]     |   |     |        |
-| Component Lifecycle (Contact List) |  | [🖼️][react-lifecycle-slides] | |  |        |
-| Morning Review                     |         | [🎟][am-rev-3-4-ticket]       | -                        | -                         | -      |
+| Intro to React                     |  [📺][intro-react-lec]    | [🖼️][intro-react-slides]     | [🧑‍💻][intro-react-demo]                     |                           |        |
+| State & Props                      |  [📺][state-props-lec]    | [🖼️][state-props-slides]     |                         |                           |        |
+| Component Lifecycle (Contact List) |  [📺][react-lifecycle-lec]| [🖼️][react-lifecycle-slides] |                         |                           |        |
+| ContactList Lab Walkthrough        |  [📺][cont-list-walk]     | -                             | -                      | [👾][state-props-sol]                        | -       |
+| Morning Review                     |                            | [🎟][am-rev-3-4-ticket]       | -                       | -                         | -     |
 
 [//]: # ' Paste in table above >> [📺][intro-react-lec] '
-[intro-react-lec]: https://youtu.be/WVkfIRo4170
+[intro-react-lec]: https://youtu.be/Mpn0YqkGjvY
 [intro-react-slides]: https://docs.google.com/presentation/d/12YbNHn_ooDhKiAjdnwbQVbqaEesj-5oNEqheN8BCME0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][intro-react-demo] '
-[intro-react-demo]: ###
+[intro-react-demo]: https://github.com/joker-jonesy/2208-react-start
 [//]: # ' Paste in table above >> [👾][intro-react-sol] '
 [intro-react-sol]: 01-junior-phase/day-13-react/Lab.FirstComponent/app/index.js
 [//]: # ' Paste in table above >> [📺][state-props-lec] '
-[state-props-lec]: https://youtu.be/TVSLxwQdBDk
+[state-props-lec]: https://youtu.be/JuDYMY-lsaI
 [state-props-slides]: https://docs.google.com/presentation/d/1Hkc85unbFqqOMoUmmCJKWQVYwfzWaVdHf7YfQYTiXnY/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][state-props-demo] '
 [state-props-demo]: 01-junior-phase/day-13-react/PropsAndState/app
 [state-props-demo-2]: 01-junior-phase/day-13-react/PropsAndState/app/app.js
 [//]: # ' Paste in table above >> [👾][state-props-sol] '
-[state-props-sol]: https://github.com/FullstackAcademy/Lab.PropsAndState/blob/solution/app/index.js
+[state-props-sol]: https://github.com/joker-jonesy/contact-redo
 [//]: # ' Paste in table above >> [📺][react-lifecycle-lec] '
-[react-lifecycle-lec]: https://youtu.be/1EJ-JG69Hk0
+[react-lifecycle-lec]: https://youtu.be/hzPFcj_9xAQ
 [react-lifecycle-slides]: https://docs.google.com/presentation/d/1tA5RcZsdLVFBehh27C6TsDIafCHSMKytwgcybo3fz20/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][react-lifecycle-sol] '
 [react-lifecycle-sol]: https://github.com/FullstackAcademy/PairExercise.ContactList.Solution
+[//]: # ' Paste in table above >> [📺][cont-list-walk] '
+[cont-list-walk]: https://youtu.be/Shz4jJojX8w
 [//]: # ' Paste in table above >> [📺][am-rev-3-4] '
 [am-rev-3-4]: https://youtu.be/U5yiIVQ_gxk
 [//]: # ' Paste in table above >> [🎟][am-rev-3-4-ticket] '
@@ -183,21 +192,21 @@
 
 | Topic          | Lecture              | Slides                  | Demo | Solution       | Review |
 | -------------- | -------------------- | ----------------------- | ---- | -------------- | ------ |
-| Intro to Juke  |  | [🖼️][intro-juke-slides] | -    |  | -      |
-| Morning Review |     | [🎟][am-rev-3-5-ticket]  | -    | -              | -      |
+| Fullstack Data flow  | [📺][intro-juke-lec] | [🖼️][intro-juke-slides] | -    |  |[👾][am-rev-3-5-sol]      |
+| Morning Review |   [📺][am-rev-3-5]  | [🎟][am-rev-3-5-ticket]  | -    | -              | -      |
 
 [juke-sol]: https://github.com/FullstackAcademy/PairProject.Juke.Solution
 [//]: # ' Paste in table above >> [📺][intro-juke-lec] '
-[intro-juke-lec]: https://youtu.be/MO2Mb-PL4hs
+[intro-juke-lec]: https://youtu.be/QVCwgEBW4tk
 [intro-juke-slides]: https://docs.google.com/presentation/d/1kg2IfIk1GaGzqXxXCA_GrZehDsXutF0gpAZqCvzt3Mo/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][am-rev-3-5] '
-[am-rev-3-5]: https://youtu.be/Z2yKl0ZZgow
+[am-rev-3-5]: https://youtu.be/u58u-eL1TuE
 [//]: # ' Paste in table above >> [🎟][am-rev-3-5-ticket] '
 [am-rev-3-5-ticket]: https://forms.gle/FCzjWPctovGvFsSq7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-5-demo] '
 [am-rev-3-5-demo]: #link-demo-here
 [//]: # ' Paste in table above >> [👾][am-rev-3-5-sol] '
-[am-rev-3-5-sol]: #paste-gist-here
+[am-rev-3-5-sol]: https://github.com/joker-jonesy/solution-juke
 
 - **You should be able to:**
   - Describe how data flows between the client and server in a fullstack application

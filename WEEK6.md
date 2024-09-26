@@ -2,25 +2,28 @@
 
 [⬅ Go Back](README.md)
 
-## Day 1: JWT Authentication
+## Day 1: Labor Day (No class)
+
+## Day 2: JWT Authentication
 
 - Pre-Work:
   - [Getting started with JSON web tokens](https://auth0.com/learn/json-web-tokens/)
 
 | Topic          | Lecture                                      | Slides                                             | Demo                                                            | Solution              | Review               |
 | -------------- | -------------------------------------------- | -------------------------------------------------- | --------------------------------------------------------------- | --------------------- | -------------------- |
-| Authentication | | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  |  |  |
-| Morning Review |                             | [🎟][am-rev-6-4-ticket]                             | -                                                               | -                     | -                    |
+| Authentication |[📺][jwt-lec] | [🖼️ JWT][jwt-slides]<br>[🖼️ bcrypt][bcrypt-slides] |  | [👾][authentication-sol] |  |
+| Navigation Bar Lecture | [📺][nav-bar]| [📎][starter] |  |  |  |
+
 
 [//]: # ' Paste in table above >> [📺][jwt-lec] '
-[jwt-lec]: https://youtu.be/bo9FC_bWmY0
+[jwt-lec]: https://youtu.be/IVGOSS8VTyI
 [bcrypt-lec]: https://youtu.be/QPpYDanzJQI
 [auth-demo-1]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-24-auth/auth-demo-1-quick
 [auth-demo-2]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/commit/a9a312195b658bd03272b53af48881ecb12f77ac
 [jwt-slides]: https://docs.google.com/presentation/d/10xFSLjUGROHLZM1HtMsKzWKZh04UPf-UpHCu7582tsQ/edit?usp=sharing
 [bcrypt-slides]: https://docs.google.com/presentation/d/1NWx0ASqOWVVqtmk8citCEPlBxzvzkcXe5S_anHYKc5o/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][authentication-sol] '
-[authentication-sol]: ###
+[authentication-sol]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/PairExercise.JWTAuthWithPasswordHashing.Solution-main
 [//]: # ' Paste in table above >> [📺][am-rev-6-4] '
 [am-rev-6-4]: https://youtu.be/f4xb8_lCxaM
 [//]: # ' Paste in table above >> [🎟][am-rev-6-4-ticket] '
@@ -29,6 +32,11 @@
 [am-rev-6-4-demo]: https://github.com/FullstackAcademy/PairExercise.JWTAuthWithPasswordHashing.Solution
 [//]: # ' Paste in table above >> [👾][am-rev-6-4-sol] '
 [am-rev-6-4-sol]: https://youtu.be/9u_arxPBeRs
+[//]: # ' Paste in table above >> [📺][nav-bar] '
+[nav-bar]: https://youtu.be/o9eBnuIx4L8
+[//]: # ' Paste in table above >> [📎][starter] '
+[starter]: https://github.com/joker-jonesy/navigation-bar
+
 
 - **You should be able to:**
   - Explain the motivation for token-based authentication
@@ -39,7 +47,7 @@
 
 </details>
 
-## Day 2: Algorithms & Analysis, Sorting
+## Day 3: Algorithms & Analysis, Sorting
 
 - Pre-Work:
   - [Big-O notation in 5 minutes - The basics][big-o-basics]
@@ -52,23 +60,23 @@
 
 | Topic                 | Lecture               | Slides                   | Demo | Solution              | Review               |
 | --------------------- | --------------------- | ------------------------ | ---- | --------------------- | -------------------- |
-| Algorithms & Analysis |       | [🖼️][big-o-slides]       | -    | -                     | -                    |
-| Bubble Sort           |  | [🖼️][bubble-sort-slides] | -    |  | -                    |
-| Merge Sort            |   | [🖼️][merge-sort-slides]  | -    |   | |
-| Morning Review        |     | [🎟][am-rev-6-2-ticket]   | -    | -                     | -                    |
+| Algorithms & Analysis |   📺    | [🖼️][big-o-slides]       | -    | -                     | -                    |
+| Bubble Sort           | 📺  | [🖼️][bubble-sort-slides] | -    |  | -                    |
+| Merge Sort            |  📺 | [🖼️][merge-sort-slides]  | -    |   | |
+
 
 [//]: # ' Paste in table above >> [📺][big-o-lec] '
-[big-o-lec]: https://youtu.be/8FkX7AS_oQQ
+[big-o-lec]: https://youtu.be/DEDmW7gGVLc
 [big-o-slides]: https://docs.google.com/presentation/d/1XEZTxq_PyuFhEk0f_wl_f25x1f1dDV7XAdJhfa6gp0E/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][bubble-sort-lec] '
-[bubble-sort-lec]: https://youtu.be/t8Jf5ULR_R0
+[bubble-sort-lec]: https://youtu.be/5xUFzMJxB7c
 [bubble-sort-slides]: https://docs.google.com/presentation/d/1uytV7plwn3bK2syjRTXGnZj2Opu7gjt2fSBzaBqdh7E/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][bubble-sort-sol] '
 [bubble-sort-sol]: 01-junior-phase/day-25-algorithms/bubblesort
 [//]: # ' Paste in table above >> [📺][bubble-sort-rev] '
 [bubble-sort-rev]: ###
 [//]: # ' Paste in table above >> [📺][merge-sort-lec] '
-[merge-sort-lec]: https://youtu.be/BFo9ql7ta94
+[merge-sort-lec]: https://youtu.be/zv4Nxt6AVCM
 [merge-sort-slides]: https://docs.google.com/presentation/d/1UyF-e9yBkfUBTqn9kut7S4EcjQi77xccaQAmwgospt8/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][merge-sort-sol] '
 [merge-sort-sol]: 01-junior-phase/day-25-algorithms/merge-sort/solution
@@ -106,7 +114,7 @@
 
 </details>
 
-## Day 3: Data Structures (Stacks, Queues & Linked Lists)
+## Day 4: Data Structures (Stacks, Queues & Linked Lists)
 
 - Pre-Work:
   - [Stacks and queues: the basics][stacks-queues-basics]
@@ -119,17 +127,17 @@
 
 | Topic               | Lecture | Slides                     | Demo | Solution | Review |
 | ------------------- | ------- | -------------------------- | ---- | -------- | ------ |
-| Stacks & Queues     |  | [🖼️][stacks-queues-slides] |  | -        | -      |
+| Stacks & Queues     | 📺 | [🖼️][stacks-queues-slides] |  | -        | -      |
 | Linked Lists        | | [🖼️][linked-lists-slides]  | | |  |
-| Binary Search Trees | | [🖼️][bst-slides]           |  |  |  |
-| Morning Review      | -       | [🎟][am-rev-6-1-ticket] | -    | -        | -      |
+| Binary Search Trees | [📺][bst-lec] | [🖼️][bst-slides]           |  |  |  |
+
 
 [sq-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-26-data-structures
 [ll-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-26-data-structures/ll.js
 [bst-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-26-data-structures/bst.js
 
 [//]: # ' Paste in table above >> [📺][stacks-queues-lec] '
-[stacks-queues-lec]: https://youtu.be/9gtj25AkpUs
+[stacks-queues-lec]: https://youtu.be/vNAzo32L63A
 [stacks-queues-slides]: https://docs.google.com/presentation/d/1O0slGUG0lbXUXL6lUTO_VfhpnO6dBDOxfl-PP_r8O84/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][linked-lists-lec] '
 [linked-lists-lec]: https://youtu.be/nKcnZWQjmiM
@@ -139,7 +147,7 @@
 [//]: # ' Paste in table above >> [📺][linked-lists-rev] '
 [linked-lists-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti
 [//]: # ' Paste in table above >> [📺][bst-lec] '
-[bst-lec]: https://youtu.be/7jRv6m2YV6E
+[bst-lec]: https://youtu.be/yQiBXE6g_nA
 [bst-slides]: https://docs.google.com/presentation/d/1X9gjfbZjp-jJGr-xkyxpVa9z36LHK_SWym4gV1bxV5c/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][bst-sol] '
 [bst-sol]: https://github.com/FullstackAcademy/PairExercise.BinarySearchTree.Solution
@@ -170,37 +178,7 @@
 
 </details>
 
-## Day 4: Hash Tables
 
-- Pre-Work: None!
-
-| Topic                       | Lecture | Slides                        | Demo | Solution | Review |
-| --------------------------- | ------- | ----------------------------- | ---- | -------- | ------ |
-| Hash Tables                 | -       | [🖼️][hash-table-slides]       | -    | -        | -      |
-| Algorithmic Problem Solving | -       | [🖼️][algorithmic-prob-slides] | -    | -        | -      |
-| Search &&! Destroy          | -       | -                             | -    | -        | -      |
-| Morning Review              | -       | [🎟][am-rev-6-3-ticket]                             | -    | -        | -      |
-
-[//]: # ' Paste in table above >> [📺][hash-table-lec] '
-[hash-table-lec]: #paste-YouTube-link-here
-[hash-table-slides]: https://docs.google.com/presentation/d/1y6ZqABDfxA6tNuAAhC-PoSHFaJPEK0HO-ys113o5CzY/edit?usp=sharing
-[//]: # ' Paste in table above >> [🧑‍💻][hash-table-demo] '
-[hash-table-demo]: #link-demo-here
-[//]: # ' Paste in table above >> [📺][algorithmic-prob-lec] '
-[algorithmic-prob-lec]: #paste-YouTube-link-here
-[algorithmic-prob-slides]: https://docs.google.com/presentation/d/1-JH0S0ZdYgaLWtofxyAfGvm9vHrDzIHD-r0-CGJjrEA/edit?usp=sharing
-[//]: # ' Paste in table above >> [🧑‍💻][algorithmic-prob-demo] '
-[algorithmic-prob-demo]: #link-demo-here
-[//]: # ' Paste in table above >> [👾][search-destroy-sol] '
-[search-destroy-sol]: ###
-[//]: # ' Paste in table above >> [📺][am-rev-6-3] '
-[am-rev-6-3]: #paste-YouTube-link-here
-[//]: # ' Paste in table above >> [🎟][am-rev-6-3-ticket] '
-[am-rev-6-3-ticket]: [#paste-google-form-link-here](https://forms.gle/vvBKNAsMoNNFqw698)
-[//]: # ' Paste in table above >> [🧑‍💻][am-rev-6-3-demo] '
-[am-rev-6-3-demo]: #link-demo-here
-[//]: # ' Paste in table above >> [👾][am-rev-6-3-sol] '
-[am-rev-6-3-sol]: #paste-gist-here
 
 ## Day 5: Final Day of Junior Phase!
 
@@ -208,10 +186,10 @@
 
 | Topic                 | Lecture | Slides | Solution | Review |
 | --------------------- | ------- | ------ | -------- | ------ |
-| Intro to Senior Phase | -       | -      | -        | -      |
+| Intro to Senior Phase | [📺][senior-intro-lec]       | -      | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][senior-intro-lec] '
-[senior-intro-lec]: #replace-with-YouTube-link
+[senior-intro-lec]: https://youtu.be/ySVg1fuF82A
 [//]: # ' Paste in table above >> [🖼️][senior-intro-slides] '
 [senior-intro-slides]: #link-to-slide-deck-here
 

@@ -7,11 +7,14 @@ Below are the **mandatory** topics to complete **_before_** Senior Phase starts!
 | Topic                                     | Link                      | Solution             | Review                                                                   |
 | ----------------------------------------- | ------------------------- | -------------------- | ------------------------------------------------------------------------ |
 | ⭐️ Boilermaker                             | [🔗][boilermaker-workshop] | [👾][boilermaker-sol] | [📺- Security][security-playlist] [📺- Testing][intro to testing playlist] |
-| 🛫 Deployment                              | [🔗][deployment-workshop]  | -                    | [📺][heroku-video]                                                        |
+| 🛫 Deployment                              |  | -                    | [📺][heroku-video]                                                        |
 | 🔍 Project (AWP) **_due Friday, 1pm EST_** | [🔗][awp-overview]         | -                    | -                                                                        |
 | AGILE Development                         | [📺][agile-lec]            | -                    | -                                                                        |
 | Giving Feedback                           | [📺][feedback-lec]         | -                    | -                                                                        |
+| Hash Tables                   |    [🔗][hash]          | -                    | -                                                                        |
 | 🚨 Security - Optional!                    | See below!                | -                    | -                                                                        |
+| Redux Toolkit - Optional!                    |    [📺][toolkit]            | -                    | -                                                                        |
+| Font Awesome - Optional!                    |    [📺][fontawesome]            | -                    | -                                                                        |
 
 [boilermaker-workshop]: https://learn.fullstackacademy.com/workshop/589f3d5b12f93c00045c27fd/landing
 [boilermaker-sol]: https://github.com/FullstackAcademy/fs-app-template
@@ -24,6 +27,9 @@ Below are the **mandatory** topics to complete **_before_** Senior Phase starts!
 [intro to testing playlist]: https://www.youtube.com/playlist?list=PL_yPiP-ZZLhIA7zPzYMTSQOnmQevX2Ivt
 [security-playlist]: https://www.youtube.com/playlist?list=PL_yPiP-ZZLhJfnvYtJGkzJObGHKdINpQF
 [heroku-video]: https://www.youtube.com/watch?v=Iz23rO7LvbE
+[toolkit]: https://youtu.be/xPkkJmkPWdQ
+[fontawesome]: https://youtu.be/FLBt2qVK9wc
+[hash]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/blob/main/hashtable.md
 
 **A few notes:**
 

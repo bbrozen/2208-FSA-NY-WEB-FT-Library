@@ -18,13 +18,13 @@
 
 | Topic                       | Lecture                                        | Slides                   | Demo                         | Solution                 |
 | --------------------------- | ---------------------------------------------- | ------------------------ | ---------------------------- | ------------------------ |
-| Intro to Redux (Redux Bank) |                         | [🖼️][intro-redux-slides] | -                            |      |
-| Pixelate-Redux              | | -                        | -                            |  |
+| Intro to Redux (Redux Bank) |       [📺][intro-redux-lec]                  | [🖼️][intro-redux-slides] | -                            |      |
+| Pixelate-Redux              | | -                        | -                            | [👾][redux-bank-sol]  |
 | React-Redux Intro           |                  | -                        |  | -                        |
 | Morning Review              | -                                              | [🎟][am-rev-4-1-ticket]   | -                            |      |
 
 [//]: # ' Paste in table above >> [📺][intro-redux-lec] '
-[intro-redux-lec]: https://youtu.be/OFrLgTHMYsc
+[intro-redux-lec]: https://youtu.be/Wc6-UckY9WU
 [//]: # ' Paste in table above >> [📺][pixelate-mid-checkin-lec] '
 [pixelate-mid-checkin-lec]: https://youtu.be/bhRvPXe9J_E
 [intro-redux-slides]: https://docs.google.com/presentation/d/1GRN3chkUUxoWm94DgPy_T6MtvDRhOGYMnA8Djdo3rmA/edit?usp=sharing
@@ -37,7 +37,7 @@
 [//]: # ' Paste in table above >> [🧑‍💻][react-redux-intro-demo] '
 [react-redux-intro-demo]: 01-junior-phase/day-15-redux/react-redux
 [//]: # ' Paste in table above >> [👾][pixelate-redux-sol] '
-[pixelate-redux-sol]: https://github.com/FullstackAcademy/PairExercise.Pixelate-Redux.Solution
+[pixelate-redux-sol]: https://github.com/FullstackAcademy/PairExercise-PixelateRedux-Solution-V2
 [//]: # ' Paste in table above >> [📺][am-rev-4-1] '
 [am-rev-4-1]: #paste-YouTube-link-here
 [//]: # ' Paste in table above >> [🎟][am-rev-4-1-ticket] '
@@ -64,20 +64,17 @@
 
 | Topic                   | Lecture                   | Slides                 | Demo                       | Solution                  | Review |
 | ----------------------- | ------------------------- | ---------------------- | -------------------------- | ------------------------- | ------ |
-| React-Redux `connect`   |        | [🖼️][connect-slides]   | -                          |         | -      |
-| Redux Groceries         |  | -                      | -                          | | -      |
-| Redux Thunks            |        | [🖼️][thunks-slides]    |          |        | -      |
-| Redux `combineReducers` |  | -                      |  |  | -      |
-| Morning Review          |         | [🎟][am-rev-4-2-ticket] |    | -                         | -      |
+| React-Redux    |    [📺][connect-lec]    | [🖼️][thunks-slides]  | -                          |         | -      |
+| Redux Groceries         |  | -                      | -                          | [👾][redux-groceries-sol] | -      |
 
 [//]: # ' Paste in table above >> [📺][connect-lec] '
-[connect-lec]: https://youtu.be/Ms8C6fuJjL4
+[connect-lec]: https://youtu.be/P3sHi0i5oaw
 [connect-slides]: https://docs.google.com/presentation/d/16wYjdImk0qyF3PCZYb2hm8ynLaRfkeWx9i-SlLmpnLs/edit?usp=sharing
 [//]: # ' Paste in table above >> [👾][connect-sol] '
 [connect-sol]: https://github.com/FullstackAcademy/Lab.ReactReduxConnect/tree/solution
 [redux-groceries-lec]: https://youtu.be/TdlV2Q_O3Z4
 [//]: # ' Paste in table above >> [👾][redux-groceries-sol] '
-[redux-groceries-sol]: https://github.com/FullstackAcademy/PairExercise.ReduxGroceries/tree/Solution
+[redux-groceries-sol]: https://github.com/joker-jonesy/goceries
 [//]: # ' Paste in table above >> [📺][thunks-lec] '
 [thunks-lec]: https://youtu.be/JHch3lqKikY
 [thunks-slides]: https://docs.google.com/presentation/d/1fnISsDpLf-uG5vhGMwTzERSv0BHxg_fysz-dMsIhhWo/edit?usp=sharing
@@ -101,7 +98,6 @@
 [am-rev-4-2-sol]: #paste-gist-here
 
 - **You should be able to:**
-  - `connect` a React component to the Redux store, mapping necessary state/dispatch to props
   - Create a Redux store (with a proper reducer and any necessary middleware)
   - Use thunks to perform AJAX requests with a React/Redux application
   - Use `combineReducers` to split your reducer function into separate functions, each managing independent slices of your store's state
@@ -125,13 +121,13 @@
 
 | Topic            | Lecture              | Slides                  | Demo              | Solution             | Review |
 | ---------------- | -------------------- | ----------------------- | ----------------- | -------------------- | ------ |
-| React Router 101 |  | [🖼️][router-101-slides] | -                 | -                    | -      |
-| React Router 201 |  | [🖼️][router-201-slides] |  | -                    | -      |
-| Readium          | -                    | -                       | -                 |   | -      |
-| Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 | | -      |
+| React Router 101 | [📺][router-101-lec] | [🖼️][router-101-slides] | -                 |                    | -      |
+| React Router 201 |  | [🖼️][router-201-slides] |  |                     | -      |
+| Readium          | [📺][readium-rev]                    | -                       | -                 | [👾][readium-sol]  | -      |
+| Morning Review   |     | [🎟][am-rev-4-3-ticket]  | -                 |  |   [📺][am-rev-4-3] |
 
 [//]: # ' Paste in table above >> [📺][router-101-lec] '
-[router-101-lec]: https://youtu.be/3WTzsNhdKAQ
+[router-101-lec]: https://youtu.be/qWv5_eSLgb0
 [router-101-slides]: https://docs.google.com/presentation/d/1lfxgExnD_gjI97Dalwk_Gskefk49AFMm3YL4g-hsljc/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][router-201-lec] '
 [router-201-lec]: https://youtu.be/ecjxIliULco
@@ -139,11 +135,11 @@
 [//]: # ' Paste in table above >> [🧑‍💻][router-demo] '
 [router-demo]: 01-junior-phase/day-17-react-router/React-Router-Demo
 [//]: # ' Paste in table above >> [👾][readium-sol] '
-[readium-sol]: https://github.com/FullstackAcademy/PairExercise.Readium-with-Redux.Solution
+[readium-sol]: https://github.com/joker-jonesy/readium-solution
 [//]: # ' Paste in table above >> [📺][readium-rev] '
-[readium-rev]: ###
+[readium-rev]: https://youtu.be/AtlvIhvd1q4
 [//]: # ' Paste in table above >> [📺][am-rev-4-3] '
-[am-rev-4-3]: https://youtu.be/f4O9d1bAFNo
+[am-rev-4-3]: https://youtu.be/_QX8MBf4Yd8
 [//]: # ' Paste in table above >> [🎟][am-rev-4-3-ticket] '
 [am-rev-4-3-ticket]: https://forms.gle/xLJqG3Hd6P93gNHp7
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-4-3-demo] '
@@ -177,21 +173,21 @@
 
 | Topic          | Lecture             | Slides                                        | Demo                  | Solution                                                                                                                              | Review                                         |
 | -------------- | ------------------- | --------------------------------------------- | --------------------- | ------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------- |
-| React Forms    |  | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |      |                                                                                                                       | -                                              |
-| Todo List      | -                   | -                                             | -                     | |  |
+| React Forms    | [📺][forms-101-lec] [📺][forms-201-lec] | [🖼️][forms-101-slides] [🖼️][forms-201-slides] |   [🧑‍💻][forms-demo]   |                                                                                                                       | -                                              |
+| Todo List      | -                   | -                                             | -                     | https://github.com/joker-jonesy/todo-solution |  |
 | Morning Review |    | [🎟][am-rev-4-4-ticket]                        | | -                                                                                                                                     | -                                              |
 
 [forms-sol]: https://github.com/FullstackAcademy/Solution.ReactForms
 [//]: # ' Paste in table above >> [📺][forms-101-lec] '
-[forms-101-lec]: https://youtu.be/ad3afzPIPQA
+[forms-101-lec]: https://youtu.be/iVeotKqAwgU
 [forms-101-slides]: https://docs.google.com/presentation/d/1pkRzpRAqq9ZtWx58WZLjhkJ0zS3lemaLZwKb1wCSfRU/edit?usp=sharing
 [//]: # ' Paste in table above >> [📺][forms-201-lec] '
-[forms-201-lec]: #paste-YouTube-link-here
+[forms-201-lec]: https://youtu.be/oLwh16plgIw
 [forms-201-slides]: https://docs.google.com/presentation/d/11e9PBgkmjd0ng-jpOhxDEjfhG2OAvU5NbDkfb9GW85c/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][forms-demo] '
-[forms-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/commit/2a6e0b643abbea1d93c65eaff2a2218ccf6618b5
+[forms-demo]: https://github.com/joker-jonesy/forms-react
 [//]: # ' Paste in table above >> [👾][todo-list-sol] '
-[todo-list-sol-1]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution
+[todo-list-sol-1]: https://github.com/joker-jonesy/todo-solution
 [todo-list-sol-2]: https://github.com/FullstackAcademy/PairExercise.TodoList.V2.Solution/tree/without-todo-in-state
 [//]: # ' Paste in table above >> [📺][todo-list-rev] '
 [todo-list-rev]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmnS1eehO0qAX1uBqBP6G113
@@ -200,7 +196,7 @@
 [//]: # ' Paste in table above >> [🎟][am-rev-4-4-ticket] '
 [am-rev-4-4-ticket]: https://forms.gle/mAF1NLCBxbVMLzCUA
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-4-4-demo] '
-[am-rev-4-4-demo]: 01-junior-phase/day-17-react-router/Morning-Review.js
+[am-rev-4-4-demo]: https://youtu.be/Sv40tkoD980
 [//]: # ' Paste in table above >> [👾][am-rev-4-4-sol] '
 [am-rev-4-4-sol]: #paste-gist-here
 
@@ -232,23 +228,23 @@
 
 | Topic          | Lecture | Slides | Demo | Solution | Review |
 | -------------- | ------- | ------ | ---- | -------- | ------ |
-| Goodie Bag     | -       | -      | -    | -        | -      |
-| Draw the Stack | -       | -      | -    | -        | -      |
-| Intro to JPFP  | -       | -      | -    | -        | -      |
+| Goodie Bag     | [📺][goodie-bag-lec]  | -      | -    | -        | -      |
+| Intro to JPFP  | [📺][jpfp-lec]  | -      | -    | -        | -      |
+| Morning Review | [📺][morn-rev]  | -      | -    | -        | -      |
 
 [//]: # ' Paste in table above >> [📺][goodie-bag-lec] '
-[goodie-bag-lec]: https://youtu.be/xqi0ISTf1K8
+[goodie-bag-lec]: https://youtu.be/AtE6lVOHZo8
 [//]: # ' Paste in table above >> [🔗][goodie-bag] >> ALREADY LINKED AT TOP IN SUPPLEMENTAL STUDY MATERIALS '
 [goodie-bag]: 01-junior-phase/day-19-goodie-bag/GoodieBag
 [//]: # ' Paste in table above >> [👾][goodie-bag-sol] '
 [goodie-bag-sol]: https://github.com/FullstackAcademy/GoodieBag.Solution
-[//]: # ' Paste in table above >> [📺][draw-the-stack-lec] '
-[draw-the-stack-lec]: https://youtu.be/nI277QxP91o
+[//]: # ' Paste in table above >> [📺][morn-rev] '
+[morn-rev]: https://youtu.be/I9NJHJMd_P4
 [//]: # ' Paste in table above >> [🔗][draw-the-stack] >> ALREADY LINKED AT TOP IN SUPPLEMENTAL STUDY MATERIALS '
 [//]: # ' Paste in table above >> [👾][draw-the-stack-sol] '
 [draw-the-stack-sol]: ###link-to-img-of-end-point
 [//]: # ' Paste in table above >> [📺][jpfp-lec] '
-[jpfp-lec]: https://youtu.be/DG6oVj9uYt4
+[jpfp-lec]: https://youtu.be/Uq1u9_r-DXQ
 [//]: # ' Paste in table above, already linked at top in Checkpoints section >> [🔗][jpfp] '
 
 </details>

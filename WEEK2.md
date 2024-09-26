@@ -20,26 +20,28 @@
 
 | Topic                           | Lecture               | Slides                   | Demo                   | Solution                   | Review                     |
 | ------------------------------- | --------------------- | ------------------------ | ---------------------- | -------------------------- | -------------------------- |
-| Express 201 (Wizard News Pt 1)  | | [🖼️][express-201-slides] | |  |  |
-| Intro to Databases & PostgreSQL | -                     | [🖼️][db-slides]          | -                      | -                          | -                          |
-| Intro to SQL                    |        | [🖼️][sql-slides]         |         | -                          | -                          |
+| Express 201 (Wizard News Pt 1)  | [📺][express-201-lec] | [🖼️][express-201-slides] | [🧑‍💻][express-201-demo] |  |  |
+| Intro to Databases & PostgreSQL |   [📺][db-lec]| [🖼️][db-slides]          | -                      | -                          | -                          |
+| Intro to SQL                    |    [📺][sql-lec]    | [🖼️][sql-slides]         |         | -                          | -                          |
 | Morning Review                  |      | [🎟][am-rev-2-1-ticket]   |  |       | -                          |
 
 [//]: # ' Paste in table above >> [📺][express-201-lec] '
-[express-201-lec]: https://youtu.be/Mg6O-1um10w
+[express-201-lec]: https://youtu.be/tvuF9DYx3tc
 [express-201-slides]: https://docs.google.com/presentation/d/1cS548bLr3YMkA9tdwviIzwVU-qO29uOuw_DSJoD4O1o/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][express-201-demo] '
-[express-201-demo]: 01-junior-phase/day-6-express-sql/express201
+[express-201-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo-2
 [//]: # ' Paste in table above >> [👾][express-wizard-1-sol] '
 [express-wizard-1-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part1
 [//]: # ' Paste in table above >> [📺][express-wizard-1-rev] '
 [express-wizard-1-rev]: https://www.youtube.com/watch?v=w07G_eMRFZ4
+[//]: # ' Paste in table above >> [📺][db-lec] '
+[db-lec]: https://youtu.be/3DHxOiKJemk
 [//]: # ' Paste in table above >> [🖼️][db-slides] '
 [db-slides]: https://docs.google.com/presentation/d/13VsDAKOCCJulTYtWSbg0gyDX4sqMRWaNVphE0okLmPM
 [//]: # ' Paste in table above >> [🖼️][sql-slides] '
 [sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4
 [//]: # ' Paste in table above >> [📺][sql-lec] '
-[sql-lec]: https://youtu.be/plKBZjg_2xw
+[sql-lec]: https://youtu.be/QDn-KykZDsA
 [sql-slides]: https://docs.google.com/presentation/d/1Wu-rfuuJ73MZfKX--mTdVXoYmOMFcd19ay-fvQuWAA4/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][sql-demo] '
 [sql-demo]: 01-junior-phase/day-6-express-sql/intro-sql
@@ -104,21 +106,21 @@
 
 | Topic                                   | Lecture                   | Slides                       | Demo                       | Solution                | Review |
 | --------------------------------------- | ------------------------- | ---------------------------- | -------------------------- | ----------------------- | ------ |
-| Node-Postgres (`pg`) (Wizard News Pt 2) |   | [🖼️][node-postgres-slides]   |   |  | -      |
-| RESTful Routing (Wizard News Pt 3)      |  | [🖼️][restful-express-slides] | |  | -      |
+| Node-Postgres (`pg`) (Wizard News Pt 2) | [📺][node-postgres-lec]  | [🖼️][node-postgres-slides]   | [🧑‍💻][node-postgres-demo]  |  |       |
+| RESTful Routing (Wizard News Pt 3)      |[📺][restful-express-lec]  | [🖼️][restful-express-slides] | | [👾][wizard-news-2-sol] |    |
 | Morning Review                          |          | [🎟][am-rev-2-3-ticket]       | -                          | -                       | -      |
 
 [//]: # ' Paste in table above >> [📺][node-postgres-lec] '
-[node-postgres-lec]: https://youtu.be/-vSl7dyKfN4
+[node-postgres-lec]: https://youtu.be/EMVPSkkNTeI
 [node-postgres-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/node-postgres.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][node-postgres-demo] '
-[node-postgres-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-7-pg-routes/pg-demo
+[node-postgres-demo]: https://github.com/ericpkatz/acme-user-things_2208
 [//]: # ' Paste in table above >> [👾][wizard-news-2-sol] '
-[wizard-news-2-sol]: https://github.com/FullstackAcademy/Solution.Wizard-news/tree/Part2
+[wizard-news-2-sol]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/Solution.Wizard-news-Part3
 [//]: # ' Paste in table above >> [📺][wizard-news-2-rev] '
 [wizard-news-2-rev]: ###
 [//]: # ' Paste in table above >> [📺][restful-express-lec] '
-[restful-express-lec]: https://youtu.be/CFK8Gefmivk
+[restful-express-lec]: https://youtu.be/Lzd7LGiy7zU
 [restful-express-slides]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/blob/main/01-junior-phase/day-7-pg-routes/express-routes-and-rest.pdf
 [//]: # ' Paste in table above >> [🧑‍💻][restful-express-demo] '
 [restful-express-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-7-pg-routes/express-routes-REST
@@ -174,15 +176,18 @@
 
 | Topic                     | Lecture                       | Slides           | Demo           | Solution              | Review                |
 | ------------------------- | ----------------------------- | ---------------- | -------------- | --------------------- | --------------------- |
-| Intro to ORMs (Sequelize) |  | [🖼️][orm-slides] |  |        | -                     |
-| Wikistack 1               | -                             | -                | -              | | |
+| Morning Review | [📺][morn-lec] | - | - | -       | -                     |
+| Intro to ORMs (Sequelize) | [📺][orm-lec] | [🖼️][orm-slides] | [🧑‍💻][orm-demo] |        | -                     |
+| Wikistack 1               | -                             | -                | -              |[👾][wikistack-1-sol]  | |
 | Morning Review            |            | [🎟][am-rev-2-4-ticket]                | -              | -                     | -                     |
 
+[//]: # ' Paste in table above >> [📺][morn-lec] '
+[morn-lec]: https://youtu.be/cz5K-_Vjqos
 [//]: # ' Paste in table above >> [📺][orm-lec] '
-[orm-lec]: https://youtu.be/vcE47KwFOLc
+[orm-lec]: https://youtu.be/fxO4dgd3PpQ
 [orm-slides]: https://docs.google.com/presentation/d/1MmXN7IE33tR2SytUO5Ko8tyVZFZ4qHwIb5ENCsrUYzQ/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][orm-demo] '
-[orm-demo]: 01-junior-phase/day-8-orm-sequelize/sequelize-demo
+[orm-demo]: https://github.com/ericpkatz/wizard_news_seq_2208
 [//]: # ' Paste in table above >> [📺][orm-lec-2] '
 [orm-lec-2]: https://youtu.be/gX6ZmMyoMrg
 [//]: # ' Paste in table above >> [👾][orm-sol] '
@@ -229,17 +234,17 @@
 
 | Topic                            | Lecture                | Slides                    | Demo                        | Solution              | Review |
 | -------------------------------- | ---------------------- | ------------------------- | --------------------------- | --------------------- | ------ |
-| Rounding Out Express & Sequelize |  | [🖼️][rounding-out-slides] |  | -                     | -      |
-| Wikistack 2                      | -                      | -                         | -                           |  | -      |
+| Rounding Out Express & Sequelize | [📺][rounding-out-lec] | [🖼️][rounding-out-slides] | [🧑‍💻][rounding-out-lec-demo] | -                     | -      |
+| Wikistack 2                      | -                      | -                         | -                           |  | [👾][wikistack-2-sol]       |
 | Morning Review                   |      | [🎟][am-rev-2-5-ticket]    | -                           | -                     | -      |
 
 [//]: # ' Paste in table above >> [📺][rounding-out-lec] '
-[rounding-out-lec]: https://youtu.be/40-AVLVUZIo
+[rounding-out-lec]: https://youtu.be/0ksyGm8FYbk
 [rounding-out-slides]: https://docs.google.com/presentation/d/1QrlyvcJmexEATyZRBDr3D5GaU5rAqN_v4h9EK8xwYF0/edit?usp=sharing
 [//]: # ' Paste in table above >> [🧑‍💻][rounding-out-lec-demo] '
-[rounding-out-lec-demo]: https://github.com/FullstackAcademy/2206-FSA-RM-WEB-FT/tree/main/01-junior-phase/day-9-express-sequlize
+[rounding-out-lec-demo]: https://github.com/FullstackAcademy/2208-FSA-NY-WEB-FT-Library/tree/main/01-junior-phase/express-demo-3-start
 [//]: # ' Paste in table above >> [👾][wikistack-2-sol] '
-[wikistack-2-sol]: https://github.com/FullstackAcademy/Solution.Wikistack2
+[wikistack-2-sol]: https://github.com/joker-jonesy/Solution.Wikistack2-main
 [//]: # ' Paste in table above >> [📺][am-rev-2-5] '
 [am-rev-2-5]: https://youtu.be/AMZxiAtq8KY
 [//]: # ' Paste in table above >> [🎟][am-rev-2-5-ticket] '
@@ -259,9 +264,11 @@
 | Topic          | Lecture                           | Slides                       | Demo | Solution             | Review |
 | -------------- | --------------------------------- | ---------------------------- | ---- | -------------------- | ------ |
 | Morning Review | -                                 | -                            | -    | -                    | -      |
-| Review         |            | -                            | -    | -                    | -      |
-| Cody's Cafe    |  | [🖼️][pillars-ov] Pillars Doc | -    |  | -      |
+| Review         |            | -                            | -    | -                    | [👾][codys-cafe-sol]      |
+| Cody's Cafe    | [📤][cody-cafe-link] | | -    |  | -      |
 
+[cody-cafe-link]: https://github.com/FullstackAcademy/codys-cafe
+[//]: # ' Paste in table above >> [📤][cody-cafe-link] '
 [am-rev-3-1-ticket]: #paste-google-form-link-here
 [//]: # ' Paste in table above >> [🧑‍💻][am-rev-3-1-demo] '
 [am-rev-3-1-demo]: #link-demo-here
